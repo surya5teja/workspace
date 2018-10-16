@@ -1,0 +1,11 @@
+
+\squid:S1659H")Declare "langMatched" on a separate line.(èˆÈîýÿÿÿÿHì÷RMINORZ
+CODE_SMELL
+hsquid:S1118":Add a private constructor to hide the implicit public one.(ý£…¿Hí÷RMAJORZ
+CODE_SMELL
+usquid:S00112P"FDefine and throw a dedicated exception instead of using a generic one.(“ŽÜÙHî÷RMAJORZ
+CODE_SMELL
+usquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.(­‡þŽHï÷RMAJORZ
+CODE_SMELL
+usquid:S00112G"FDefine and throw a dedicated exception instead of using a generic one.(Ù®ÆèHð÷RMAJORZ
+CODE_SMELL

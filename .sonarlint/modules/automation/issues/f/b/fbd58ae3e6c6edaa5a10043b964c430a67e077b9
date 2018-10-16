@@ -1,0 +1,24 @@
+
+k
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ıŞÁıÿÿÿÿHÖïRMAJORZ
+CODE_SMELL
+f
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ö¡¹êH×ïRMAJORZ
+CODE_SMELL
+fsquid:S1197+"8Move the array designator from the variable to the type.(›ÉåşHÙïRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(·ûÚ¨ÿÿÿÿÿHÕïRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(ïÅüıÿÿÿÿHØïRMAJORZ
+CODE_SMELL
+k
+squid:S106B"9Replace this use of System.out or System.err by a logger.(»Ï§ùÿÿÿÿHÛïRMAJORZ
+CODE_SMELL
+f
+squid:S1069"9Replace this use of System.out or System.err by a logger.(§Ê«¼HÚïRMAJORZ
+CODE_SMELL
+k
+squid:S106I"9Replace this use of System.out or System.err by a logger.(àÚå‰ùÿÿÿÿHÜïRMAJORZ
+CODE_SMELL
+»%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¼ö ¼8‚‰–÷Ù,HíïRMINORZ
+CODE_SMELL

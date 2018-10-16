@@ -1,0 +1,65 @@
+
+jsquid:S1133ª"5Do not forget to remove this deprecated code someday.(¦³÷ê8°¿½Ã‡,Hƒ³RINFOZ
+CODE_SMELL
+[squid:S1165 "&Make this "tdpStackTrace" field final.(äÇü8°¿½Ã‡,H„³RMINORZ
+CODE_SMELL
+nsquid:S1133f"5Do not forget to remove this deprecated code someday.(ø¾ÔÓÿÿÿÿÿ8°¿½Ã‡,H…³RINFOZ
+CODE_SMELL
+osquid:S1133‘"5Do not forget to remove this deprecated code someday.(’ìë¬üÿÿÿÿ8°¿½Ã‡,H†³RINFOZ
+CODE_SMELL
+tsquid:MissingDeprecatedCheck¡"(Add the missing @deprecated Javadoc tag.(éüç•úÿÿÿÿ8°¿½Ã‡,H‡³RMAJORZ
+CODE_SMELL
+isquid:S1133"5Do not forget to remove this deprecated code someday.(ïÿ‚ª8°¿½Ã‡,Hˆ³RINFOZ
+CODE_SMELL
+osquid:S1133¡"5Do not forget to remove this deprecated code someday.(éüç•úÿÿÿÿ8°¿½Ã‡,H‰³RINFOZ
+CODE_SMELL
+nsquid:MissingDeprecatedCheckn"(Add the missing @deprecated Javadoc tag.(„–åï8°¿½Ã‡,HŠ³RMAJORZ
+CODE_SMELL
+msquid:MissingDeprecatedCheck~"(Add the missing @deprecated Javadoc tag.(ä€õ|8°¿½Ã‡,H‹³RMAJORZ
+CODE_SMELL
+Psquid:S1165"Make this "type" field final.(–î†ûÿÿÿÿHŒ³RMINORZ
+CODE_SMELL
+jsquid:S1133³"5Do not forget to remove this deprecated code someday.(À›™ª8°¿½Ã‡,H³RINFOZ
+CODE_SMELL
+tsquid:MissingDeprecatedCheck‘"(Add the missing @deprecated Javadoc tag.(’ìë¬üÿÿÿÿ8°¿½Ã‡,H³RMAJORZ
+CODE_SMELL
+hsquid:S1133v"5Do not forget to remove this deprecated code someday.(®­Í/8°¿½Ã‡,H³RINFOZ
+CODE_SMELL
+osquid:MissingDeprecatedCheck³"(Add the missing @deprecated Javadoc tag.(À›™ª8°¿½Ã‡,H³RMAJORZ
+CODE_SMELL
+osquid:MissingDeprecatedCheckª"(Add the missing @deprecated Javadoc tag.(¦³÷ê8°¿½Ã‡,H‘³RMAJORZ
+CODE_SMELL
+|squid:CallToDeprecatedMethodˆ"5Remove this use of "requestHeader"; it is deprecated.(ğâ±8°¿½Ã‡,H’³RMINORZ
+CODE_SMELL
+Tsquid:S1165"&Make this "requestHeader" field final.(ïÿ‚ªH“³RMINORZ
+CODE_SMELL
+nsquid:MissingDeprecatedCheck^"(Add the missing @deprecated Javadoc tag.(Áù°¶8°¿½Ã‡,H”³RMAJORZ
+CODE_SMELL
+isquid:S1133^"5Do not forget to remove this deprecated code someday.(Áù°¶8°¿½Ã‡,H•³RINFOZ
+CODE_SMELL
+isquid:S1133n"5Do not forget to remove this deprecated code someday.(„–åï8°¿½Ã‡,H–³RINFOZ
+CODE_SMELL
+ssquid:MissingDeprecatedCheckf"(Add the missing @deprecated Javadoc tag.(ø¾ÔÓÿÿÿÿÿ8°¿½Ã‡,H—³RMAJORZ
+CODE_SMELL
+osquid:MissingDeprecatedCheck‡"(Add the missing @deprecated Javadoc tag.(“šéÑ8°¿½Ã‡,H˜³RMAJORZ
+CODE_SMELL
+jsquid:S1133‡"5Do not forget to remove this deprecated code someday.(“šéÑ8°¿½Ã‡,H™³RINFOZ
+CODE_SMELL
+jsquid:S1133™"5Do not forget to remove this deprecated code someday.(Úé¬Â8°¿½Ã‡,Hš³RINFOZ
+CODE_SMELL
+Msquid:S1165"Make this "errors" field final.(÷®üH›³RMINORZ
+CODE_SMELL
+msquid:MissingDeprecatedCheckv"(Add the missing @deprecated Javadoc tag.(®­Í/8°¿½Ã‡,Hœ³RMAJORZ
+CODE_SMELL
+{squid:CallToDeprecatedMethod€"5Remove this use of "requestHeader"; it is deprecated.(ç¤°=8°¿½Ã‡,H³RMINORZ
+CODE_SMELL
+nsquid:MissingDeprecatedCheck"(Add the missing @deprecated Javadoc tag.(ïÿ‚ª8°¿½Ã‡,H³RMAJORZ
+CODE_SMELL
+hsquid:S1133~"5Do not forget to remove this deprecated code someday.(ä€õ|8°¿½Ã‡,HŸ³RINFOZ
+CODE_SMELL
+Ksquid:S1165"Make this "code" field final.(²âèúH ³RMINORZ
+CODE_SMELL
+osquid:MissingDeprecatedCheck™"(Add the missing @deprecated Javadoc tag.(Úé¬Â8°¿½Ã‡,H¡³RMAJORZ
+CODE_SMELL
+Ssquid:S1165" Make this "message" field final.(ù„è¿ûÿÿÿÿH¢³RMINORZ
+CODE_SMELL

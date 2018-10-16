@@ -1,0 +1,6 @@
+
+Ã%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'com.amtrak.tdp.cartservices.exception.TdpException' which is a runtime exception.(ÿ¸®!H©?RMINORZ
+CODE_SMELL
+Ã%squid:RedundantThrowsDeclarationCheck
+"}Remove the declaration of thrown exception 'com.amtrak.tdp.cartservices.exception.TdpException' which is a runtime exception.(ßåæyHª?RMINORZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+
+ƒsquid:S1192Ü"LDefine a constant instead of duplicating this literal ", Deleted: " 3 times.(´€ñûÿÿÿÿÿH¶¥RCRITICALZ
+CODE_SMELL
+squid:S1192£"JDefine a constant instead of duplicating this literal ", Value: " 4 times.(Ë±¬¯ûÿÿÿÿH·¥RCRITICALZ
+CODE_SMELL
+|squid:S1192æ"JDefine a constant instead of duplicating this literal ", Added: " 3 times.(­‡ÒÌH¸¥RCRITICALZ
+CODE_SMELL
+xsquid:S1192ó"FDefine a constant instead of duplicating this literal "Key: " 6 times.(…‡úÂH¹¥RCRITICALZ
+CODE_SMELL
+ˆsquid:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(à‚ŠºHº¥RMINORZ
+CODE_SMELL
+gsquid:S1133O"5Do not forget to remove this deprecated code someday.(¡Áğ½üÿÿÿÿH»¥RINFOZ
+CODE_SMELL
+gsquid:S1133Z"5Do not forget to remove this deprecated code someday.(Øª¼äÿÿÿÿÿH¼¥RINFOZ
+CODE_SMELL
+bsquid:S1133f"5Do not forget to remove this deprecated code someday.(Ö´¤³H½¥RINFOZ
+CODE_SMELL
+bsquid:S1133r"5Do not forget to remove this deprecated code someday.(“§÷³H¾¥RINFOZ
+CODE_SMELL
+bsquid:S1133|"5Do not forget to remove this deprecated code someday.(‡Á¿·H¿¥RINFOZ
+CODE_SMELL
+hsquid:S1133†"5Do not forget to remove this deprecated code someday.(ôşø¥úÿÿÿÿHÀ¥RINFOZ
+CODE_SMELL
+hsquid:S1133‘"5Do not forget to remove this deprecated code someday.(”ªûÿÿÿÿHÁ¥RINFOZ
+CODE_SMELL
+]squid:S1172…"/Remove this unused method parameter "category".(÷şëHÂ¥RMAJORZ
+CODE_SMELL

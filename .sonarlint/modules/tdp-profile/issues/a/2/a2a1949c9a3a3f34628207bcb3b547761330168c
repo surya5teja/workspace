@@ -1,0 +1,15 @@
+
+tsquid:S1118":Add a private constructor to hide the implicit public one.(ÃíÍñùÿÿÿÿ8®¾Ù,HÎ¯RMAJORZ
+CODE_SMELL
+Œsquid:UselessImportCheck"JRemove this unused import 'com.amtrak.tdp.profileservice.common.Consumer'.(„ÇÍ 8®¾Ù,HÏ¯RMINORZ
+CODE_SMELL
+ƒsquid:UselessImportCheck"ARemove this unused import 'com.amazonaws.AmazonServiceException'.(úÀëú8®¾Ù,HĞ¯RMINORZ
+CODE_SMELL
+œsquid:UselessImportCheck"ZRemove this unused import 'com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper'.(ÜÏå¼8®¾Ù,HÑ¯RMINORZ
+CODE_SMELL
+œsquid:UselessImportCheck"URemove this unused import 'com.amtrak.tdp.profileservice.facade.TdpAccountConstants'.(ö€Ì˜ûÿÿÿÿ8®¾Ù,HÒ¯RMINORZ
+CODE_SMELL
+šsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8®¾Ù,HÓ¯RMINORZ
+CODE_SMELL
+Šsquid:UselessImportCheck"HRemove this unused import 'com.amtrak.tdp.error.exception.TdpException'.(ÅÛ€Ó8®¾Ù,HÔ¯RMINORZ
+CODE_SMELL

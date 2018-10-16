@@ -1,0 +1,24 @@
+
+ˆsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Š×ÛèøÿÿÿÿHä÷RMAJORZBUG
+}squid:S1858†"I"getJsonProperty" returns a string, there's no need to call "toString()".(Õ¨«ùÿÿÿÿHé÷RMINORZ
+CODE_SMELL
+‰squid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(«¦ÂøÿÿÿÿHè÷RCRITICALZ
+CODE_SMELL
+Ssquid:S2629¯"$Invoke method(s) only conditionally.(¢¡ª„Hà÷RMAJORZ
+CODE_SMELL
+osquid:S1193­"@Replace the usage of the "instanceof" operator by a catch block.(û¬ŞÓHá÷RMAJORZ
+CODE_SMELL
+xsquid:S1858Ÿ"I"getJsonProperty" returns a string, there's no need to call "toString()".(¸À£¹Hê÷RMINORZ
+CODE_SMELL
+]squid:S1066Ó"/Merge this if statement with the enclosing one.(•êâ6Hã÷RMAJORZ
+CODE_SMELL
+]squid:S1905Â")Remove this unnecessary cast to "String".(ç¬“ƒşÿÿÿÿHæ÷RMINORZ
+CODE_SMELL
+Wsquid:S1905:")Remove this unnecessary cast to "Logger".(¶¼ÇHå÷RMINORZ
+CODE_SMELL
+xsquid:S1858 "I"getJsonProperty" returns a string, there's no need to call "toString()".(ŒÓ…¬Hë÷RMINORZ
+CODE_SMELL
+Zsquid:S2629Û"$Invoke method(s) only conditionally.(¢¡ª„8îÚ¬Æã,H‹øRMAJORZ
+CODE_SMELL
+„squid:S1858Ó"I"getJsonProperty" returns a string, there's no need to call "toString()".(´­Û¸úÿÿÿÿ8îÚ¬Æã,HŒøRMINORZ
+CODE_SMELL

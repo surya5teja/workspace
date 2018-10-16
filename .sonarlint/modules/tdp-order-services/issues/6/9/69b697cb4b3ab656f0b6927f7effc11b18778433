@@ -1,0 +1,9 @@
+
+isquid:S1172"/Remove this unused method parameter "response".(‚—Àóüÿÿÿÿ8«Ø‚,HÂ‹RMAJORZ
+CODE_SMELL
+¡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ì’àe8³§£‚,HÊ‹RMAJORZ
+CODE_SMELL
+isquid:S1172"/Remove this unused method parameter "response".(üÄŒşÿÿÿÿ8«Ø‚,HÁ‹RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é˜Ë8ÏÚã‚,HŞ‹RMAJORZ
+CODE_SMELL

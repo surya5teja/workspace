@@ -1,0 +1,6 @@
+
+zsquid:CallToDeprecatedMethodR"4Remove this use of "TdpException"; it is deprecated.(õ¥ã8ƒàì‘,Hù‰RMINORZ
+CODE_SMELL
+zsquid:CallToDeprecatedMethod<"4Remove this use of "TdpException"; it is deprecated.(õ¥ã8ƒàì‘,Hú‰RMINORZ
+CODE_SMELL
+[squid:S1148Q"#Use a logger to log this exception.(Ç’Çê8”ªøí‘,Hş‰RMINORZVULNERABILITY

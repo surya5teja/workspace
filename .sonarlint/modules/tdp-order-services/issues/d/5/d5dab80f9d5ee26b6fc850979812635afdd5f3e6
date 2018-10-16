@@ -1,0 +1,8 @@
+
+r
+squid:S106a"9Replace this use of System.out or System.err by a logger.(”åÕ÷ûÿÿÿÿ8İìç€,H¸£RMAJORZ
+CODE_SMELL
+}squid:UselessImportCheck"6Remove this unused import 'com.amtrak.tdp.log.TdpLog'.(Ë÷Íúÿÿÿÿ8…’Üµ‚,H½âRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(îÄûëúÿÿÿÿ8İìç€,H·£RMAJORZ
+CODE_SMELL

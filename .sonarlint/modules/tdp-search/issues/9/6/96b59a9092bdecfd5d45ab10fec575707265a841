@@ -1,0 +1,7 @@
+
+Ö%squid:RedundantThrowsDeclarationCheck’"…Remove the declaration of thrown exception 'org.springframework.validation.BindException', as it cannot be thrown from method's body.(ÄÄÇ›8Žª½×‚,Hò®RMINORZ
+CODE_SMELL
+msquid:S1854ƒ"9Remove this useless assignment to local variable "terms".(‰µðŒþÿÿÿÿHñ®RMAJORZ
+CODE_SMELL
+—squid:S1488—"cImmediately return this expression instead of assigning it to the temporary variable "remarksInfo".(ùÈ®ÙýÿÿÿÿHð®RMINORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+
+Xsquid:S1068""*Remove this unused "LOGGER" private field.(ÔÉÕšH×¾RMAJORZ
+CODE_SMELL
+„squid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8¼£Ï–ý+Há¾RMINORZ
+CODE_SMELL

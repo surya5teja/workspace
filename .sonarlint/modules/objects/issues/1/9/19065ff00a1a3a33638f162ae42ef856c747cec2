@@ -1,0 +1,23 @@
+
+f
+squid:S106>"9Replace this use of System.out or System.err by a logger.(²îÜëHñÙRMAJORZ
+CODE_SMELL
+k
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ê±ÉœøÿÿÿÿHòÙRMAJORZ
+CODE_SMELL
+tsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(´‡¾ÒÿÿÿÿÿHóÙRMINORZ
+CODE_SMELL
+nsquid:S1075 "ARefactor your code to get this URI from a customizable parameter.(À­–BHôÙRMINORZ
+CODE_SMELL
+ƒsquid:S37761"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(œû¿ØHõÙRCRITICALZ
+CODE_SMELL
+l
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ß×È€şÿÿÿÿHöÙRMAJORZ
+CODE_SMELL
+Zsquid:S1612|",Replace this lambda with a method reference.(ï—äH÷ÙRMINORZ
+CODE_SMELL
+k
+squid:S106~"9Replace this use of System.out or System.err by a logger.(±ÇìŞùÿÿÿÿHøÙRMAJORZ
+CODE_SMELL
+gsquid:S2864v"4Iterate over the "entrySet" instead of the "keySet".(¹ûßÎÿÿÿÿÿHùÙRMAJORZ
+CODE_SMELL

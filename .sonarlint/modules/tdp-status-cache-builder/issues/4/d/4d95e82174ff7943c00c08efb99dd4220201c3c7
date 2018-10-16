@@ -1,0 +1,15 @@
+
+ssquid:CallToDeprecatedMethodâ".Remove this use of "getDay"; it is deprecated.(¿ªƒ…şÿÿÿÿHù¬RMINORZ
+CODE_SMELL
+ssquid:CallToDeprecatedMethodâ".Remove this use of "getDay"; it is deprecated.(¿ªƒ…şÿÿÿÿHú¬RMINORZ
+CODE_SMELL
+usquid:CallToDeprecatedMethodã"0Remove this use of "getMonth"; it is deprecated.(ÉƒÖäúÿÿÿÿHû¬RMINORZ
+CODE_SMELL
+usquid:CallToDeprecatedMethodã"0Remove this use of "getMonth"; it is deprecated.(ÉƒÖäúÿÿÿÿHü¬RMINORZ
+CODE_SMELL
+tsquid:CallToDeprecatedMethodä"/Remove this use of "getYear"; it is deprecated.(Ø¾ğüÿÿÿÿHı¬RMINORZ
+CODE_SMELL
+tsquid:CallToDeprecatedMethodä"/Remove this use of "getYear"; it is deprecated.(Ø¾ğüÿÿÿÿHş¬RMINORZ
+CODE_SMELL
+~squid:S2259y"RA "NullPointerException" could be thrown; "computeDepartureTime" is nullable here.(ÔË•ßûÿÿÿÿHÿ¬RMAJORZBUG
+|squid:S2259y"PA "NullPointerException" could be thrown; "computeArrivalTime" is nullable here.(ÔË•ßûÿÿÿÿH€­RMAJORZBUG

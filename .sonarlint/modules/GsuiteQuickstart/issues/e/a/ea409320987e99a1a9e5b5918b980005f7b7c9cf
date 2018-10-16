@@ -1,0 +1,16 @@
+
+Œsquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü¨µÙüÿÿÿÿHÎ¥RMINORZ
+CODE_SMELL
+‡squid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ÕÜ™HÏ¥RMINORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å èìHÐ¥RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(È×¨ÞÿÿÿÿÿHÑ¥RMAJORZ
+CODE_SMELL
+k
+squid:S1069"9Replace this use of System.out or System.err by a logger.(»ŠìüÿÿÿÿHÒ¥RMAJORZ
+CODE_SMELL
+squid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö©ÙLHÓ¥RMINORZ
+CODE_SMELL
+qsquid:S11553">Use isEmpty() to check whether the collection is empty or not.(‡¡ÆÉøÿÿÿÿHÔ¥RMINORZ
+CODE_SMELL

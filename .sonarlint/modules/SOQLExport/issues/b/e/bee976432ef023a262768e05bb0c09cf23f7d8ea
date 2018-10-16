@@ -1,0 +1,14 @@
+
+Ssquid:S1148P"#Use a logger to log this exception.(¼Ç‘EHÜŸRMINORZVULNERABILITY
+Tsquid:S1148R"#Use a logger to log this exception.(Í‚õÃHÝŸRMINORZVULNERABILITY
+rsquid:S2147e"DCombine this catch with the one at line 99, which has the same body.(ï­£ÄHÞŸRMINORZ
+CODE_SMELL
+Ysquid:S1148d"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHßŸRMINORZVULNERABILITY
+Ysquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHàŸRMINORZVULNERABILITY
+¹%squid:RedundantThrowsDeclarationCheckk"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤ÞýÿÿÿÿHáŸRMINORZ
+CODE_SMELL
+\squid:S2095-".Close this "FileReader" in a "finally" clause.(Û©Ç†ýÿÿÿÿHâŸRBLOCKERZBUG
+Ysquid:S1148T"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHãŸRMINORZVULNERABILITY
+bsquid:S2095]"4Close this "FileOutputStream" in a "finally" clause.(ô«¡—ýÿÿÿÿHäŸRBLOCKERZBUG
+k
+squid:S899p";Do something with the "boolean" value returned by "delete".(Ô¢ïÀHåŸRMINORZVULNERABILITY

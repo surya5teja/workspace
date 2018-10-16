@@ -1,0 +1,16 @@
+
+isquid:S2095["4Close this "FileOutputStream" in a "finally" clause.(ô«¡—ıÿÿÿÿ8œš«ğ¡,H’çRBLOCKERZBUG
+Zsquid:S1148N"#Use a logger to log this exception.(¼Ç‘E8ä´¶Ù¡,HëæRMINORZVULNERABILITY
+À%squid:RedundantThrowsDeclarationChecki"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ê¡¯ğ¡,H˜çRMINORZ
+CODE_SMELL
+`squid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„‹´Ù¡,HéæRMINORZVULNERABILITY
+Hsquid:S1220""Move this file to a named package.H–åRMINORZ
+CODE_SMELL
+`squid:S1148b"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Œ¾ØÛ¡,HçRMINORZVULNERABILITY
+`squid:S1148d"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğå²Ù¡,HçæRMINORZVULNERABILITY
+[squid:S1148P"#Use a logger to log this exception.(Í‚õÃ8ÀÙÖÛ¡,HşæRMINORZVULNERABILITY
+ysquid:S2147c"DCombine this catch with the one at line 97, which has the same body.(ï­£Ä8Œ¾ØÛ¡,H€çRMINORZ
+CODE_SMELL
+csquid:S2095+".Close this "FileReader" in a "finally" clause.(Û©Ç†ıÿÿÿÿ8¾¿Ù¡,HîæRBLOCKERZBUG
+r
+squid:S899n";Do something with the "boolean" value returned by "delete".(Ô¢ïÀ8†‰²ğ¡,H›çRMINORZVULNERABILITY

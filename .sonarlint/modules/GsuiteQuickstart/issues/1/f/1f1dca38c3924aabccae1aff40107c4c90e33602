@@ -1,0 +1,14 @@
+
+‹squid:S3008"]Rename this field "DATA_STORE_FACTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¹ÿHÖ¥RMINORZ
+CODE_SMELL
+Œsquid:S3008"YRename this field "HTTP_TRANSPORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õäæ…úÿÿÿÿH×¥RMINORZ
+CODE_SMELL
+isquid:S1444"8Make this "public static DATA_STORE_FACTORY" field final(ñ¹ÿHØ¥RMINORZVULNERABILITY
+jsquid:S1444"4Make this "public static HTTP_TRANSPORT" field final(õäæ…úÿÿÿÿHÙ¥RMINORZVULNERABILITY
+¦"squid:ClassVariableVisibilityCheck"^Make DATA_STORE_FACTORY a static final constant or non-public and provide accessors if needed.(ñ¹ÿHÚ¥RMINORZVULNERABILITY
+§"squid:ClassVariableVisibilityCheck"ZMake HTTP_TRANSPORT a static final constant or non-public and provide accessors if needed.(õäæ…úÿÿÿÿHÛ¥RMINORZVULNERABILITY
+hsquid:S1118":Add a private constructor to hide the implicit public one.(ëâ°ÊHÜ¥RMAJORZ
+CODE_SMELL
+Xsquid:S1181""%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿHİ¥RMAJORZ
+CODE_SMELL
+Ysquid:S1148#"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿHŞ¥RMINORZVULNERABILITY

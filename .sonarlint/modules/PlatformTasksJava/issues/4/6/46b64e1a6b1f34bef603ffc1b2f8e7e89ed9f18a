@@ -1,0 +1,15 @@
+
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÑÄÑHú²RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï¯÷¨üÿÿÿÿHû²RMAJORZ
+CODE_SMELL
+lsquid:S1226">Introduce a new variable instead of reusing the parameter "b".(á»ÑÅHü²RMINORZ
+CODE_SMELL
+qsquid:S1226">Introduce a new variable instead of reusing the parameter "a".(ÕÚ»ÝþÿÿÿÿHý²RMINORZ
+CODE_SMELL
+hsquid:S1854"5Remove this useless assignment to local variable "a".(ÕÚ»ÝþÿÿÿÿHþ²RMAJORZ
+CODE_SMELL
+csquid:S1854"5Remove this useless assignment to local variable "b".(á»ÑÅHÿ²RMAJORZ
+CODE_SMELL

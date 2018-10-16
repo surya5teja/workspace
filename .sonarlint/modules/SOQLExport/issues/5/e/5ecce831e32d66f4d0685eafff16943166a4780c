@@ -1,0 +1,23 @@
+
+Ysquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHŒÇRMINORZVULNERABILITY
+bsquid:S2095U"4Close this "FileOutputStream" in a "finally" clause.(ô«¡—ıÿÿÿÿHÇRBLOCKERZBUG
+Ssquid:S1148G"#Use a logger to log this exception.(¼Ç‘EHÇRMINORZVULNERABILITY
+\squid:S2095-".Close this "FileReader" in a "finally" clause.(Û©Ç†ıÿÿÿÿHÇRBLOCKERZBUG
+Tsquid:S1148I"#Use a logger to log this exception.(Í‚õÃHÇRMINORZVULNERABILITY
+rsquid:S2147]"DCombine this catch with the one at line 91, which has the same body.(ï­£ÄH‘ÇRMINORZ
+CODE_SMELL
+k
+squid:S899h";Do something with the "boolean" value returned by "delete".(Ô¢ïÀH’ÇRMINORZVULNERABILITY
+Ysquid:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH“ÇRMINORZVULNERABILITY
+asquid:S1481'"3Remove this unused "querySubString" local variable.(­ß«ÍH”ÇRMINORZ
+CODE_SMELL
+Ysquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH•ÇRMINORZVULNERABILITY
+Ì%squid:RedundantThrowsDeclarationCheck%"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÏÏàæıÿÿÿÿ8¶ãÁµÌ,H–ÇRMINORZ
+CODE_SMELL
+hsquid:S1068"".Remove this unused "apiStartAv" private field.(Ì½Ïşÿÿÿÿ8·ãÁµÌ,H—ÇRMAJORZ
+CODE_SMELL
+fsquid:S1068#",Remove this unused "apiEndAv" private field.(×òãëúÿÿÿÿ8·ãÁµÌ,H˜ÇRMAJORZ
+CODE_SMELL
+gsquid:S2093+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8·ãÁµÌ,H™ÇRCRITICALZ
+CODE_SMELL
+wsquid:S2259M"DA "NullPointerException" could be thrown; "writer" is nullable here.(ÄËªŸÿÿÿÿÿ8·ãÁµÌ,HšÇRMAJORZBUG

@@ -1,0 +1,12 @@
+
+csquid:S2095V"5Close this "PreparedStatement" in a "finally" clause.(·§úûÿÿÿÿHú÷RBLOCKERZBUG
+asquid:S2095#"3Close this "FileInputStream" in a "finally" clause.(ó¼‹ÏüÿÿÿÿHû÷RBLOCKERZBUG
+›squid:S1319s"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(–³ÔHü÷RMINORZ
+CODE_SMELL
+squid:S00116"YRename this field "Statementprops" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¢±ÿÿÿÿÿHı÷RMINORZ
+CODE_SMELL
+csquid:S20957"5Close this "PreparedStatement" in a "finally" clause.(Û©ìùÿÿÿÿHş÷RBLOCKERZBUG
+Wsquid:S1905")Remove this unnecessary cast to "Logger".(‡Ü«Hÿ÷RMINORZ
+CODE_SMELL
+\squid:S2095""3Close this "FileInputStream" in a "finally" clause.(œ–³†H€øRBLOCKERZBUG
+^squid:S2095z"5Close this "PreparedStatement" in a "finally" clause.(¦ñøéHøRBLOCKERZBUG

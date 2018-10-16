@@ -1,0 +1,15 @@
+
+£squid:S1192·"eDefine a constant instead of duplicating this literal "Completed all Segment Book RCS calls" 3 times.(Äñ»œüÿÿÿÿ8¡Ûì,H¥ûRCRITICALZ
+CODE_SMELL
+hsquid:S1905€"-Remove this unnecessary cast to "RetrieveRS".(¬éÍûúÿÿÿÿ8¡Ûì,H¦ûRMINORZ
+CODE_SMELL
+hsquid:S1905ì"-Remove this unnecessary cast to "RetrieveRS".(¬éÍûúÿÿÿÿ8¡Ûì,H§ûRMINORZ
+CODE_SMELL
+msquid:S1905”"2Remove this unnecessary cast to "SegmentCancelRS".(Éë½§ùÿÿÿÿ8¡Ûì,H¨ûRMINORZ
+CODE_SMELL
+§squid:UselessImportCheck#"eRemove this unused import 'com.amtrak.tdp.common.dto.buy.reservation.pricestore.TdpPriceDeleteRSDTO'.(œæ ÿ8¡Ûì,H©ûRMINORZ
+CODE_SMELL
+msquid:S1905¨"2Remove this unnecessary cast to "SegmentCancelRS".(Éë½§ùÿÿÿÿ8¡Ûì,HªûRMINORZ
+CODE_SMELL
+¦squid:S1192ğ"mDefine a constant instead of duplicating this literal "Completed all Retrieve Reservation RCS calls" 4 times.(°à§ô8¡Ûì,H«ûRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,18 @@
+
+k
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ό‹―χύÿÿÿÿH…ψRMAJORZ
+CODE_SMELL
+squid:S1192X"RDefine a constant instead of duplicating this literal "CF00N60000002zkjA" 4 times.(Μ£²ρ8η®ΛΕγ,H‰ψRCRITICALZ
+CODE_SMELL
+squid:S1192N"PDefine a constant instead of duplicating this literal "00N60000002zkij" 4 times.(βα―γώÿÿÿÿ8η®ΛΕγ,HψRCRITICALZ
+CODE_SMELL
+k
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ύήΑύÿÿÿÿH„ψRMAJORZ
+CODE_SMELL
+f
+squid:S106'"9Replace this use of System.out or System.err by a logger.(§Κ«ΌHƒψRMAJORZ
+CODE_SMELL
+€squid:S1192["HDefine a constant instead of duplicating this literal "a[href=" 4 times.(θ•τ8η®ΛΕγ,H‡ψRCRITICALZ
+CODE_SMELL
+ΐ%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(“ΧƒΜώÿÿÿÿ8Ϊ¥–φΩ,H†ψRMINORZ
+CODE_SMELL

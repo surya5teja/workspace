@@ -1,0 +1,9 @@
+
+]squid:S1068."*Remove this unused "LOGGER" private field.(µ­•òøÿÿÿÿH¦’RMAJORZ
+CODE_SMELL
+‰squid:S3776V"SRefactor this method to reduce its Cognitive Complexity from 108 to the 15 allowed.(€‚â®ýÿÿÿÿH§’RCRITICALZ
+CODE_SMELL
+{squid:CallToDeprecatedMethodþ"4Remove this use of "TdpException"; it is deprecated.(µèìü8ÛþÛï‘,H¨’RMINORZ
+CODE_SMELL
+Šsquid:UselessImportCheck"CRemove this unused import 'com.amtrak.tdp.common.dto.buy.ErrorDTO'.(àóßßýÿÿÿÿ8ÛþÛï‘,H©’RMINORZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+
+™squid:UselessImportCheck"WRemove this unused import 'com.amtrak.tdp.common.dto.buy.evoucher.TdpEVoucherReqWsDTO'.(ñÉ²8˜í¥ì‘,HŠŠRMINORZ
+CODE_SMELL
+osquid:S1905I"5Remove this unnecessary cast to "RetrieveEvoucherRS".(¶ıæıÿÿÿÿ8’å»Š‚,H‹ŠRMINORZ
+CODE_SMELL
+osquid:S1905a"5Remove this unnecessary cast to "RetrieveEvoucherRS".(¶ıæıÿÿÿÿ8’å»Š‚,HŒŠRMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+^squid:S2095@"5Close this "PreparedStatement" in a "finally" clause.(ôşéæHÜõRBLOCKERZBUG
+csquid:S2095."5Close this "PreparedStatement" in a "finally" clause.(Òêó§şÿÿÿÿHİõRBLOCKERZBUG
+csquid:S2095U"5Close this "PreparedStatement" in a "finally" clause.(ƒ±ŞÚıÿÿÿÿHŞõRBLOCKERZBUG
+\squid:S2095 "3Close this "FileInputStream" in a "finally" clause.(œ–³†HßõRBLOCKERZBUG
+asquid:S2095!"3Close this "FileInputStream" in a "finally" clause.(ó¼‹ÏüÿÿÿÿHàõRBLOCKERZBUG
+\squid:S1905")Remove this unnecessary cast to "Logger".( çéÿÿÿÿÿHáõRMINORZ
+CODE_SMELL
+squid:S00116"YRename this field "Statementprops" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¢±ÿÿÿÿÿHâõRMINORZ
+CODE_SMELL

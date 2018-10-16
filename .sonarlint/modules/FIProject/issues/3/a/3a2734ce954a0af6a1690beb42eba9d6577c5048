@@ -1,0 +1,64 @@
+
+k
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ÿ–ÁìüÿÿÿÿHƒåRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(¹ÎûZHþäRMAJORZ
+CODE_SMELL
+Usquid:S1481H"'Remove this unused "br" local variable.(ßÅÍ”H†åRMINORZ
+CODE_SMELL
+‰squid:S3008"VRename this field "ROOT_FOLDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ô÷¢ûÿÿÿÿHøäRMINORZ
+CODE_SMELL
+k
+squid:S106K"9Replace this use of System.out or System.err by a logger.(õÁöŠÿÿÿÿÿH„åRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(œÉ€¾øÿÿÿÿ8ÈÀÉÐ¡,HŽåRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(•ñØ¦8ÈÀÉÐ¡,H‘åRMAJORZ
+CODE_SMELL
+Ysquid:S1148?"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHŠåRMINORZVULNERABILITY
+Hsquid:S1220""Move this file to a named package.H…åRMINORZ
+CODE_SMELL
+isquid:S1854L"6Remove this useless assignment to local variable "br".(ù¥™¢ÿÿÿÿÿHˆåRMAJORZ
+CODE_SMELL
+dsquid:S1854H"6Remove this useless assignment to local variable "br".(ßÅÍ”H‰åRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú˜½ÕÿÿÿÿÿHåRMAJORZ
+CODE_SMELL
+ksquid:S1197F"8Move the array designator from the variable to the type.(ùï¾ŽÿÿÿÿÿHöäRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(Ý¸“Ñûÿÿÿÿ8ÈÀÉÐ¡,HåRMAJORZ
+CODE_SMELL
+xsquid:S1192"GDefine a constant instead of duplicating this literal "SELECT" 3 times.(ÌŠð¯H÷äRCRITICALZ
+CODE_SMELL
+tsquid:S30273"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(÷Å‡ýHôäRMAJORZ
+CODE_SMELL
+ysquid:S3027"KPut single-quotes around '\\' to use the faster "lastIndexOf(char)" method.(ÜàºHïäRMAJORZ
+CODE_SMELL
+tsquid:S3027&"FPut single-quotes around '[' to use the faster "indexOf(char)" method.(Ó¼ÃÌHñäRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ËÏé|HýäRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(”°»‘úÿÿÿÿ8ÈÀÉÐ¡,HåRMAJORZ
+CODE_SMELL
+tsquid:S30274"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(«¡ÆÊHõäRMAJORZ
+CODE_SMELL
+tsquid:S3027""FPut single-quotes around ']' to use the faster "indexOf(char)" method.(÷Å‡ýHòäRMAJORZ
+CODE_SMELL
+tsquid:S3027&"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(Ó¼ÃÌHðäRMAJORZ
+CODE_SMELL
+†squid:S3008"XRename this field "OUTPUT_FOLDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ù„¸HùäRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Ý¸“Ñûÿÿÿÿ8ÈÀÉÐ¡,HŒåRMAJORZ
+CODE_SMELL
+zsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ãýˆðüÿÿÿÿH‡åRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(¶‘«æ8ÈÀÉÐ¡,H‹åRMAJORZ
+CODE_SMELL
+tsquid:S3027."FPut single-quotes around '[' to use the faster "indexOf(char)" method.(‹Á›ðHóäRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(²Ç¬_8ÈÀÉÐ¡,HåRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(­çýÍþÿÿÿÿH‚åRMAJORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+
+Â%squid:RedundantThrowsDeclarationChecke"vRemove the declaration of thrown exception 'com.amtrak.tdp.error.exception.TdpException' which is a runtime exception.(Öüø·ûÿÿÿÿH¦vRMINORZ
+CODE_SMELL
+¾%squid:RedundantThrowsDeclarationCheck‘"vRemove the declaration of thrown exception 'com.amtrak.tdp.error.exception.TdpException' which is a runtime exception.(±öÈÜH¥vRMINORZ
+CODE_SMELL

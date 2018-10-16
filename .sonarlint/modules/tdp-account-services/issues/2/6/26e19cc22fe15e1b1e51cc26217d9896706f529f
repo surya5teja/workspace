@@ -1,0 +1,5 @@
+
+œ%squid:RedundantThrowsDeclarationCheck®"ÖRemove the declaration of thrown exception 'org.springframework.validation.BindException', as it cannot be thrown from method's body.(êÃó’HœúRMINORZ
+CODE_SMELL
+Ésquid:S3776m"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(—∑ÇπH–úRCRITICALZ
+CODE_SMELL

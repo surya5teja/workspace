@@ -1,0 +1,19 @@
+
+asquid:S1133"5Do not forget to remove this deprecated code someday.(ˆ¼*H¬¥RINFOZ
+CODE_SMELL
+gsquid:S1133-"5Do not forget to remove this deprecated code someday.(ÙÜèˆøÿÿÿÿH­¥RINFOZ
+CODE_SMELL
+bsquid:S1133>"5Do not forget to remove this deprecated code someday.(ÉŞïH®¥RINFOZ
+CODE_SMELL
+gsquid:S1133Q"5Do not forget to remove this deprecated code someday.(¯îïÛúÿÿÿÿH¯¥RINFOZ
+CODE_SMELL
+bsquid:S1133_"5Do not forget to remove this deprecated code someday.(¨ÁéñH°¥RINFOZ
+CODE_SMELL
+gsquid:S1133l"5Do not forget to remove this deprecated code someday.(­®Å›ıÿÿÿÿH±¥RINFOZ
+CODE_SMELL
+bsquid:S1133z"5Do not forget to remove this deprecated code someday.(äÄ…›H²¥RINFOZ
+CODE_SMELL
+†squid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùúİúÿÿÿÿH³¥RMINORZ
+CODE_SMELL
+squid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÅ°H´¥RMINORZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+
+msquid:S1197k"8Move the array designator from the variable to the type.(«Ú”à8çú¼—Í,HÏÙRMINORZ
+CODE_SMELL
+“squid:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ûªğşÿÿÿÿ8Ä®•—Í,HËÙRMINORZ
+CODE_SMELL
+r
+squid:S106="9Replace this use of System.out or System.err by a logger.(µşĞ•üÿÿÿÿ8™Ô«Í,H×ÙRMAJORZ
+CODE_SMELL
+Šsquid:S3776'"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ç˜Œÿ8Ö•¶Í,HÙÙRCRITICALZ
+CODE_SMELL
+r
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ê‹¸şÿÿÿÿÿ8Ö•¶Í,HÕÙRMAJORZ
+CODE_SMELL
+squid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹œäº8øÖ¶Í,HĞÙRMINORZ
+CODE_SMELL
+squid:S3776_"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‘ï¹ªÿÿÿÿÿ8Õ¤ˆ˜Í,HÎÙRCRITICALZ
+CODE_SMELL
+nsquid:S2864c"4Iterate over the "entrySet" instead of the "keySet".(‹¥»Ëşÿÿÿÿ8ñğª—Í,HÊÙRMAJORZ
+CODE_SMELL
+“squid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¶ì¢üÿÿÿÿ8Ä®•—Í,HÖÙRMINORZ
+CODE_SMELL
+isquid:S2864l"4Iterate over the "entrySet" instead of the "keySet".(ÙÌ‘î8îó†˜Í,HÔÙRMAJORZ
+CODE_SMELL
+“squid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òÿéúÿÿÿÿ8Ä®•—Í,HÑÙRMINORZ
+CODE_SMELL

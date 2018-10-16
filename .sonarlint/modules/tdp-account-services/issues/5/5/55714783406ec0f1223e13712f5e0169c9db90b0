@@ -1,0 +1,7 @@
+
+€squid:CallToDeprecatedMethodÄ"4Remove this use of "TdpException"; it is deprecated.(‡ Áàÿÿÿÿÿ8µëƒã,HØŸRMINORZ
+CODE_SMELL
+}squid:S2259"NA "NullPointerException" could be thrown; "identityReqWsDTO" is nullable here.(Œ²Ë8×…ˆ¤—,HÙŸRMAJORZBUG
+Šsquid:S3923˜"[Remove this conditional structure or edit its code blocks so that they're not all the same.(å’ÊÂ8µëƒã,HÚŸRMAJORZBUG
+Šsquid:S3776^"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(È–Ú8ñ¸á—‡,HÛŸRCRITICALZ
+CODE_SMELL

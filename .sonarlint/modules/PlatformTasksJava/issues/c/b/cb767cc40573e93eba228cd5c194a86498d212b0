@@ -1,0 +1,11 @@
+
+m
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ó÷‡—8Àß‚”¸,Hõ²RMAJORZ
+CODE_SMELL
+nsquid:S28645"4Iterate over the "entrySet" instead of the "keySet".(¥Ğıÿÿÿÿ8‘ã“”¸,Hø²RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(§ÍŞ“şÿÿÿÿ8©åï¸,HÙ²RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªúÿîşÿÿÿÿ8ÆÔš¸,Hí²RMAJORZ
+CODE_SMELL
